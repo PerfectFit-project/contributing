@@ -19,4 +19,4 @@ See https://guide.esciencecenter.nl/#/best_practices/checklist for additional st
 * Expect users
 * Expect contributors
 
-Contact Sven van der Burg (Netherlands eScience Center, (s.vanderburg@esciencecenter.nl)[mailto:s.vanderburg@esciencecenter.nl]
+Contact Sven van der Burg (Netherlands eScience Center, [s.vanderburg@esciencecenter.nl](mailto:s.vanderburg@esciencecenter.nl)
