@@ -1,5 +1,5 @@
 # Contributing guide for PerfectFit software projects
-A checklist that every PerfectFit project should do, basically copied from: https://guide.esciencecenter.nl/#/best_practices/checklist
+A checklist that every PerfectFit software project should do, basically copied from: https://guide.esciencecenter.nl/#/best_practices/checklist
 
 As a **bare minimum**, every PerfectFit software project should from the start:
 * Pick & include an [open source license](https://guide.esciencecenter.nl/#/best_practices/licensing)
